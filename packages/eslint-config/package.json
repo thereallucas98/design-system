@@ -1,5 +1,6 @@
 {
-  "name": "@ignite-ui/eslint-config",
+  "name": "@davidev98/eslint-config",
+  "version": "1.0.0",
   "private": true,
   "main": "index.js",
   "keywords": [],

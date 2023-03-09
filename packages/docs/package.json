@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@davidev98/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,9 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.21.0",
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@davidev98/eslint-config": "*",
+    "@davidev98/react": "*",
+    "@davidev98/tokens": "*",
     "@storybook/addon-actions": "^6.5.16",
     "@storybook/addon-essentials": "^6.5.16",
     "@storybook/addon-interactions": "^6.5.16",
