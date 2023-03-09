@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/thereallucas98.png',
     alt: 'David Lucas',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
