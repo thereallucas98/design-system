@@ -1,0 +1,2 @@
+import{A as t}from"./index-2808e2b7.js";import"./index-b02e1b15.js";import"./iframe-1751e295.js";import"./index-524f2912.js";import"./jsx-runtime-b26b1341.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/thereallucas98.png",alt:"David Lucas"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-dee0561e.js.map
