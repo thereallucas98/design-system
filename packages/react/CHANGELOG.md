@@ -1,5 +1,11 @@
 # @davidev98/react
 
+## 2.1.0
+
+### Minor Changes
+
+- 521ff0a: Updated Components & removed test color
+
 ## 2.0.0
 
 ### Major Changes
